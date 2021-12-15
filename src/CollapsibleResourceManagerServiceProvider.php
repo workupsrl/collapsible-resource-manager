@@ -1,6 +1,6 @@
 <?php
 
-namespace DigitalCreative\CollapsibleResourceManager;
+namespace Workup\CollapsibleResourceManager;
 
 use Illuminate\Support\ServiceProvider;
 

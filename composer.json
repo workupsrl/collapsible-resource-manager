@@ -1,5 +1,5 @@
 {
-    "name": "digital-creative/collapsible-resource-manager",
+    "name": "workup/collapsible-resource-manager",
     "description": "A custom sidebar menu with collapsible groups",
     "keywords": [
         "laravel",
@@ -19,13 +19,13 @@
     },
     "autoload": {
         "psr-4": {
-            "DigitalCreative\\CollapsibleResourceManager\\": "src/"
+            "Workup\\CollapsibleResourceManager\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "DigitalCreative\\CollapsibleResourceManager\\CollapsibleResourceManagerServiceProvider"
+                "Workup\\CollapsibleResourceManager\\CollapsibleResourceManagerServiceProvider"
             ]
         }
     },

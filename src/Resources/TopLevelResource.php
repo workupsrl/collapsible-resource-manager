@@ -1,6 +1,6 @@
 <?php
 
-namespace DigitalCreative\CollapsibleResourceManager\Resources;
+namespace Workup\CollapsibleResourceManager\Resources;
 
 use Laravel\Nova\Http\Requests\NovaRequest;
 use Laravel\Nova\Resource;

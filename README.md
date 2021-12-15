@@ -179,7 +179,7 @@ RawResource::make([
 If you use [Nova Dashboard](https://github.com/dcasia/nova-dashboard), you can also use `WidgetResource` to link a dashboard to resource manager calling:
 
 ```php
-use DigitalCreative\NovaDashboard\WidgetResource
+use Workup\NovaDashboard\WidgetResource
 
 WidgetResource::make(MainDashboard::class)->label('Reports')->canSee(fn() => true)),
 ```

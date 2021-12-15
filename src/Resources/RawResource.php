@@ -1,6 +1,6 @@
 <?php
 
-namespace DigitalCreative\CollapsibleResourceManager\Resources;
+namespace Workup\CollapsibleResourceManager\Resources;
 
 class RawResource extends AbstractResource
 {
